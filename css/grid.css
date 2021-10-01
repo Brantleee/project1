@@ -1,0 +1,13 @@
+.grid {
+    height: 25px;
+    margin: 2px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+  }
+  .grid-item {
+    font-size: 22px;
+    text-align: left;
+    padding: 2px;
+    border: 1px solid black;
+  }
