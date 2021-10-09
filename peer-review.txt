@@ -1,0 +1,57 @@
+Peer Review by Aaron Rock:
+
+1. What did you like about this website?
+
+    I like how oranized your webiste is from your code structure to the style it portrays on screen. You webiste
+    did a tremendous job at being responsive to moving the window. You had no bleeding text or images. 
+    I thought the idea of your website was also exactly what the spec wanted. I think your inforamtion was well 
+    placed there was nothing on your website that I felt like should have been somewhere else in your site and
+    the context was very clear to the user.
+
+2. Describe one significant difference between your own P1 site and this person's. E.g.
+
+    I think the biggest difference between or sites is the use of CSS and just styling. I implemented more
+     flexboxes and  images for the user to view and see what kind of experience they would have cycling. 
+     Not saying it is better but at first glance that was the biggedt difference. I also feel a 
+     difference we have is the headers. I opted to keep the same header 
+     image for all links but I really liked the different look of your headers.
+
+    1. Which has a better user experience (and why)?
+
+        I feel that probably yours does from the point of the responsivness of the window resizing with your website 
+        is very sharp. One thing I did notice was when I inspected and changed your site to mobile
+        the text went pretty close to the edge, but still readable. Unlike mine where it looks great on a large 
+        screen and iphone screen but  the in between can become a little icky.
+
+    2. Which codebase do you think would be more maintainable (and why)?
+
+        I think your would be easier to keep up with just on the bases of updating the schedule I have on my site 
+        will be tricky because I will have to go in each month and list the schedule for that month.
+
+3. Is the code well-structured within files, and well-organized between files and directories?  
+
+    Absolutely, the code that you structured is very easy to look through. Each html and css file is easy to navigate 
+    and imagine if you needed to fix somwthing in your code it would be fast and easy to find where the issue 
+    would arise.
+
+    1. if not, suggest some specific improvements
+
+        The only thing I saw that is more code structure based is just having your code not exceeding the screens
+        column max for your files.
+
+4. Did you find any other issues? If so, briefly enumerate them.
+
+    I am a little confused with the animation. I think there is suppose to be an image but nothing showed.
+
+    1. were semantically appropriate elements selected
+
+        Yes, although you really never named your elements, which I don't think you had to, but there
+        was never specific classes or id's selected just by the element.
+
+    2. is the CSS refactored to limit duplication?
+
+        Your CSS code does a great job of reusing code for multiple files.
+
+5. Do you have any other constructive comments for the author?
+
+    I do not. I really liked your website and the inforamtion you presented. Great job!
